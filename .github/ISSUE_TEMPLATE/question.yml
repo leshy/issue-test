@@ -1,6 +1,6 @@
 name: Question
 description: Ask a question about DimOS usage or development
-title: "[Question]: "
+title: ""
 labels: ["question"]
 body:
   - type: textarea
