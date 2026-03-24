@@ -1,0 +1,19 @@
+name: Feature Request
+description: Suggest a new feature or improvement for DimOS
+title: "[Feature]: "
+body:
+  - type: textarea
+    id: description
+    attributes:
+      label: Description
+      value: |
+        ## Problem
+
+
+        ## Proposed solution
+
+
+        ## Alternatives considered
+
+    validations:
+      required: true

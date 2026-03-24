@@ -1,0 +1,27 @@
+name: Bug Report
+description: Report a bug in DimOS
+title: "[Bug]: "
+body:
+  - type: textarea
+    id: description
+    attributes:
+      label: Description
+      value: |
+        ## System
+        Ubuntu 24.4, Mac osx
+
+        ## Robot (including a firmware version)
+        Unitree Go2 EDU 1.1.7
+
+        ## Steps to reproduce
+        
+
+        # Dimos version
+        Branch (assuming latest)
+        or
+        Commit: <!-- git rev-parse --short HEAD -->
+
+        ## Logs / screenshots
+
+    validations:
+      required: true
