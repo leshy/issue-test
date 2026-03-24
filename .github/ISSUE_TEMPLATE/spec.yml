@@ -1,6 +1,7 @@
 name: Spec
 description: Technical specification for a new module, feature, or system change
 title: "[Spec]: "
+labels: ["spec"]
 body:
   - type: textarea
     id: spec
