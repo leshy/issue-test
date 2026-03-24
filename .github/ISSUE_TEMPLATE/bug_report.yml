@@ -8,18 +8,15 @@ body:
       label: Description
       value: |
         ## System
-        Ubuntu 24.4, Mac osx
+        <!-- e.g. Ubuntu 24.04, macOS 15.4 -->
 
-        ## Robot (including a firmware version)
-        Unitree Go2 EDU 1.1.7
+        ## Robot (including firmware version)
+        <!-- e.g. Unitree Go2 EDU 1.1.7, or N/A -->
 
         ## Steps to reproduce
-        
 
-        # Dimos version
-        Branch (assuming latest)
-        or
-        Commit: <!-- git rev-parse --short HEAD -->
+        ## DimOS version
+        <!-- branch name or commit: git rev-parse --short HEAD -->
 
         ## Logs / screenshots
 
